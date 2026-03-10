@@ -1,5 +1,7 @@
 # wanniertools-analysis
 
+[![CI](https://img.shields.io/github/actions/workflow/status/chatmaterials/wanniertools-analysis/ci.yml?branch=main&label=CI)](https://github.com/chatmaterials/wanniertools-analysis/actions/workflows/ci.yml) [![Release](https://img.shields.io/github/v/release/chatmaterials/wanniertools-analysis?display_name=tag)](https://github.com/chatmaterials/wanniertools-analysis/releases)
+
 Standalone skill for WannierTools post-processing, model handoff checks, and topological analysis setup.
 
 ## What This Skill Covers
