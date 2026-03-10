@@ -1,0 +1,14 @@
+&TB_FILE
+ Hrfile = 'wannier90_hr.dat'
+/
+
+&CONTROL
+ BulkBand_calc = T
+/
+
+&SYSTEM
+ NumOccupied = 16
+/
+
+SURFACE = 1 1 1
+KPATH_BULK = 0.0 0.0 0.0   0.0 0.5 0.5

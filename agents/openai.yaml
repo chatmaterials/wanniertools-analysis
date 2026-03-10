@@ -1,0 +1,5 @@
+interface:
+  display_name: "WannierTools Analysis"
+  short_description: "Prepare and inspect WannierTools analyses"
+  brand_color: "#1D4ED8"
+  default_prompt: "Use $wanniertools-analysis to prepare or review a WannierTools analysis workflow."
